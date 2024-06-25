@@ -1,0 +1,120 @@
+Day-1-Principal-Component-Analysis
+001 https://github.com/learn-co-curriculum/dsc-pca-introduction
+002 https://github.com/learn-co-curriculum/dsc-unsupervised-learning
+003 https://github.com/learn-co-curriculum/dsc-curse-of-dimensionality-lab
+004 https://github.com/learn-co-curriculum/dsc-pca-in-scikitlearn
+005 https://github.com/learn-co-curriculum/dsc-pca-in-scikitlearn-lab
+006 https://github.com/learn-co-curriculum/dsc-pca-and-pipelines-v2-1
+007 https://github.com/learn-co-curriculum/dsc-pca-and-digital-image-processing
+008 https://github.com/learn-co-curriculum/dsc-pca-and-digital-image-processing-lab
+009 https://github.com/learn-co-curriculum/dsc-pca-covariance-matrix-eigendecomp
+010 https://github.com/learn-co-curriculum/dsc-performing-principle-component-analysis
+011 https://github.com/learn-co-curriculum/dsc-pca-numpy-lab
+012 https://github.com/flatiron-school/ds-principal_component_analysis-kvo32
+013 https://github.com/learn-co-curriculum/dsc-pca-summary
+014 https://github.com/learn-co-curriculum/dsc-dimensionality-reduction-lab
+
+Day-2-Recommendation-Systems
+001 https://github.com/learn-co-curriculum/dsc-collaborative-filtering-singular-value-decomposition
+002 https://github.com/learn-co-curriculum/dsc-matrix-factorization-als
+003 https://github.com/flatiron-school/ds-singular_value_decomposition-kvo32
+004 https://github.com/learn-co-curriculum/dsc-implementing-recommender-systems
+005 https://github.com/learn-co-curriculum/dsc-implementing-recommender-systems-lab
+006 https://github.com/flatiron-school/ds-recommendation_systems-kvo32
+
+Day-3-Clustering
+001 https://github.com/learn-co-curriculum/dsc-clustering-intro
+002 https://github.com/learn-co-curriculum/dsc-k-means-clustering
+003 https://github.com/learn-co-curriculum/dsc-k-means-clustering-lab
+004 https://github.com/flatiron-school/ds-clustering_kvo32
+005 https://github.com/learn-co-curriculum/dsc-hierarchical-agglomerative-clustering-codealong
+006 https://github.com/flatiron-school/ds-clustering_kvo32
+007 https://github.com/learn-co-curriculum/dsc-market-segmentation-clustering-lab
+
+Day-4-Exploring-Time-Series-Data
+001 https://github.com/learn-co-curriculum/dsc-introduction-to-time-series
+002 https://github.com/learn-co-curriculum/dsc-managing-time-series-data-lab
+003 https://github.com/learn-co-curriculum/dsc-managing-time-series-data-lab
+004 https://github.com/flatiron-school/ds-time_series_data_manipulation-kvo32
+005 https://github.com/learn-co-curriculum/dsc-types-of-trends
+006 https://github.com/learn-co-curriculum/dsc-testing-for-trends-lab
+007 https://github.com/learn-co-curriculum/dsc-removing-trends
+008 https://github.com/learn-co-curriculum/dsc-removing-trends-lab
+009 https://github.com/learn-co-curriculum/dsc-time-series-decomposition
+010 https://github.com/flatiron-school/ds-time_series_trends_and_stationarity-kvm
+011 https://github.com/learn-co-curriculum/dsc-time-series-section-recap
+
+Day-5-Modeling-Time-Series-Data
+001 https://github.com/learn-co-curriculum/dsc-time-series-models-introduction
+002 https://github.com/learn-co-curriculum/dsc-basic-time-series-models
+003 https://github.com/learn-co-curriculum/dsc-basic-time-series-models-lab
+004 https://github.com/learn-co-curriculum/dsc-corr-autocorr-in-time-series
+005 https://github.com/learn-co-curriculum/dsc-corr-autocorr-in-time-series-lab
+006 https://github.com/learn-co-curriculum/dsc-arma-models
+007 https://github.com/learn-co-curriculum/dsc-arma-models-statsmodels
+008 https://github.com/learn-co-curriculum/dsc-arma-models-statsmodels-lab
+009 https://github.com/flatiron-school/ds-time_series_modeling-kvm32
+010 https://github.com/flatiron-school/ds-time_series_modeling_walkthrough-gfc33
+
+Day-6-Big-Data-and-(Py)Spark
+001 https://github.com/flatiron-school/ds-big_data_intro-kvm32
+002 https://github.com/learn-co-curriculum/dsc-sparkcontext
+003 https://github.com/learn-co-curriculum/dsc-resilient-distributed-datasets-rdd-lab
+004 https://github.com/learn-co-curriculum/dsc-word-count-with-map-reduce-lab
+005 https://github.com/learn-co-curriculum/dsc-spark-dataframes
+006 https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-v2-4
+007 https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-lab
+008 https://github.com/flatiron-school/ds-spark-kvm32
+009 https://github.com/learn-co-curriculum/als-recommender-system-pyspark-lab
+010 https://github.com/learn-co-curriculum/dsc-big-data-pyspark-recap
+
+
+Day-7-Natural-Language-Processing
+001 https://github.com/learn-co-curriculum/dsc-nlp-section-intro
+002 https://github.com/learn-co-curriculum/dsc-word-vectorization-lab
+003 https://github.com/learn-co-curriculum/dsc-regular-expressions-codealong
+004 https://github.com/flatiron-school/ds-natural_language_pre-processing-kvm32
+005 https://github.com/learn-co-curriculum/dsc-corpus-statistics-lab
+006 https://github.com/learn-co-curriculum/dsc-context-free-grammars-codealong
+007 https://github.com/flatiron-school/ds-nlp_vectorization-kvm32
+008 https://github.com/learn-co-curriculum/dsc-text-classification
+009 https://github.com/learn-co-curriculum/dsc-dimensionality-reduction-lab
+010 https://github.com/flatiron-school/ds-nlp_modeling-kvm32
+
+
+Day-8-Neural-Networks
+001 https://github.com/learn-co-curriculum/dsc-neural-nets-intro-v2-4
+002 https://github.com/learn-co-curriculum/dsc-introduction-to-neural-networks
+003 https://github.com/learn-co-curriculum/dsc-introduction-to-neural-networks-lab
+004 https://github.com/flatiron-school/ds-neural_network_architecture-kvm32
+005 https://github.com/learn-co-curriculum/dsc-introduction-to-keras
+006 https://github.com/learn-co-curriculum/dsc-introduction-to-keras-lab
+006 https://github.com/learn-co-curriculum/dsc-deeper-neural-networks
+007 https://github.com/learn-co-curriculum/dsc-deeper-neural-networks-lab
+008 https://github.com/learn-co-curriculum/dsc-image-classification-with-mlps
+009 https://github.com/learn-co-curriculum/dsc-image-classification-with-mlps-lab
+010 https://github.com/flatiron-school/ds-intro_to_keras_and_tensorflow-kvm32
+009 https://github.com/learn-co-curriculum/dsc-neural-nets-recap-v2-4
+
+
+Day-9-Tuning-Neural-Networks
+001 https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-regularization
+002 https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-regularization-lab-v2-1
+003 https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-normalization
+004 https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-normalization-lab-v2-1
+005 https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-from-start-to-finish-lab-v2-1
+006 https://github.com/flatiron-school/ds-network_regularization_and_evaluation-kvm32
+007 https://github.com/learn-co-curriculum/dsc-convolutional-neural-networks
+008 https://github.com/learn-co-curriculum/dsc-convolutional-neural-networks-codealong
+009 https://github.com/learn-co-curriculum/dsc-building-a-cnn-from-scratch
+010 https://github.com/learn-co-curriculum/dsc-visualizing-intermediate-activations
+011 https://github.com/learn-co-curriculum/dsc-visualizing-activation-functions-lab
+012 https://github.com/flatiron-school/ds-convolutional_neural_networks-kvm32
+013 https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-recap-v2-4
+
+
+Day-10-Amazon Web Services
+001 https://github.com/learn-co-curriculum/dsc-cloud-computing
+002 https://github.com/learn-co-curriculum/dsc-flask-intro
+003 https://github.com/learn-co-curriculum/dsc-productionizing-models-with-sagemaker
+004 https://github.com/flatiron-school/ds-cloud_services-kvm32
