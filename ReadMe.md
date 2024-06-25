@@ -21,7 +21,7 @@ or use the terminal python clone_repos.py (ensure you're in the repository folde
 * You might want to ensure that you have good internet because some of the repository are quite large. Like really large... 
 
 
-* There could be an issue when renaming the large files, especially for day 9. So you can look the comments that might be included after downloading is complete. 
+* There could be an issue when renaming the large files, especially for day 9. So you might want to look at the comments included after downloading is complete. 
 
 ![Screenshot 2024-06-25 062041](https://github.com/gregorymikuro/phase-4-content-in-2-clicks/assets/155205164/ae1a6ab6-cf6f-4dc1-bc77-699f78006419)
 
