@@ -89,12 +89,12 @@ Day-8-Neural-Networks
 004 https://github.com/flatiron-school/ds-neural_network_architecture-kvm32
 005 https://github.com/learn-co-curriculum/dsc-introduction-to-keras
 006 https://github.com/learn-co-curriculum/dsc-introduction-to-keras-lab
-006 https://github.com/learn-co-curriculum/dsc-deeper-neural-networks
-007 https://github.com/learn-co-curriculum/dsc-deeper-neural-networks-lab
-008 https://github.com/learn-co-curriculum/dsc-image-classification-with-mlps
-009 https://github.com/learn-co-curriculum/dsc-image-classification-with-mlps-lab
-010 https://github.com/flatiron-school/ds-intro_to_keras_and_tensorflow-kvm32
-009 https://github.com/learn-co-curriculum/dsc-neural-nets-recap-v2-4
+007 https://github.com/learn-co-curriculum/dsc-deeper-neural-networks
+008 https://github.com/learn-co-curriculum/dsc-deeper-neural-networks-lab
+009 https://github.com/learn-co-curriculum/dsc-image-classification-with-mlps
+010 https://github.com/learn-co-curriculum/dsc-image-classification-with-mlps-lab
+011 https://github.com/flatiron-school/ds-intro_to_keras_and_tensorflow-kvm32
+012 https://github.com/learn-co-curriculum/dsc-neural-nets-recap-v2-4
 
 
 Day-9-Tuning-Neural-Networks
