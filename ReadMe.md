@@ -1,4 +1,9 @@
 # All Phase Four Repositories in Two Clicks!
+![image](https://github.com/gregorymikuro/phase-4-content-in-2-clicks/assets/155205164/ea324b4b-4246-4a2e-a521-c89bc0ae4f1c)
+
+
+![image](https://github.com/gregorymikuro/phase-4-content-in-2-clicks/assets/155205164/8905996a-62d1-44d1-b470-6452a6371951)
+
 
 ## Procedure 
 
@@ -19,6 +24,8 @@ or use the terminal python clone_repos.py (ensure you're in the repository folde
 
 
 * You might want to ensure that you have good internet because some of the repository are quite large. Like really large... 
+
+![Screenshot 2024-06-24 165518](https://github.com/gregorymikuro/phase-4-content-in-2-clicks/assets/155205164/738c29c2-9582-4fd0-9d1d-f0c565bdcec7)
 
 
 * There could be an issue when renaming the large files, especially for day 9. So you might want to look at the comments included after downloading is complete. 
